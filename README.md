@@ -1,4 +1,4 @@
-Gg# Customer-Churn-in-Telecommunication-Company
+# Customer-Churn-in-Telecommunication-Company
 
 ![display_photo](https://github.com/Samuel-Kiio/Customer-Churn-in-Telecommunication-Company/blob/main/display_photo.png)
 
